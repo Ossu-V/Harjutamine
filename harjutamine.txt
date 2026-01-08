@@ -5,3 +5,5 @@ korraldatult ühes kohas.
 GitHubi kasutavad tarkvaraarendajad, ettevõtted, õpilased ja õpetajad.
 Platvormi abil saab arendada tarkvara, jagada koodi, hallata projekte
 ning õppida programmeerimist ja meeskonnatööd.
+
+Ma saan kasutada GitHubi programmeerimisprojektide salvestamiseks ja haldamiseks.
