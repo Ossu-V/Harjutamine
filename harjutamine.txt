@@ -5,3 +5,9 @@ korraldatult ühes kohas.
 GitHubi kasutavad tarkvaraarendajad, ettevõtted, õpilased ja õpetajad.
 Platvormi abil saab arendada tarkvara, jagada koodi, hallata projekte
 ning õppida programmeerimist ja meeskonnatööd.
+
+Ma saan kasutada GitHubi programmeerimisprojektide salvestamiseks ja haldamiseks.
+
+GitHub Inc. asutati 2008. aastal Tom Preston-Werneri, Chris Wanstrathi ja PJ Hyetti poolt.
+Sama aasta jooksul muutus GitHubi teenus kasutajatele kättesaadavaks ning hakkas kiiresti
+populaarsust koguma tarkvaraarendajate seas üle maailma.
